@@ -6,7 +6,7 @@ Due Monday, August 27 at 11:55pm.
 * Write the following program.
  * The program will output 100 letters per line, on 10 lines. 
  * The first letter is always "I".
- * The letters will be generated with the following probabilities.  
+ * The subsequent letters will be generated with the following probabilities.  
  * P(c|ab) = 0.5 means that if the previous two letters are "ab" (in order), the probability of "c" being printed is 1/2.  
  * Here, " " indicates a space.)
  * P(_ | I) = 1
