@@ -6,9 +6,7 @@ Due Monday, August 27 at 11:55pm.
 * Write the following program.
  * The program will output 100 letters per line, on 10 lines. 
  * The first letter is always "I".
- * The subsequent letters will be generated with the following probabilities.  
- * P(c|ab) = 0.5 means that if the previous two letters are "ab" (in order), the probability of "c" being printed is 1/2.  
- * Here, " " indicates a space.)
+ * The subsequent letters will be generated with the following probabilities:
  * P(_ | I) = 1
  * P(a | _) = 0.5
  * P(l | _) = 0.5
@@ -16,4 +14,9 @@ Due Monday, August 27 at 11:55pm.
  * P(l | a) = 0.6
  * P(v | i) = 0.95
  * P(n | i) = 0.05
- * P(. | e) = 1
+ * P(! | e) = 1
+ * P(_ | !) = 0.7
+ * P(I | !) = 0.2
+ * P(! | !) = 0.1
+ 
+Hint: You need to sample from a distribution here, i.e., "roll the dice."  
