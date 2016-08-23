@@ -74,7 +74,7 @@ Every week, there will be homework assignments -- sometimes short programs, some
 
 Programming Assignments*
 -
-There will also be larger programming assignments may require significantly more work, including a written report written in LaTeX, in the format of a short computer science paper.  Planned assignments are:
+There will also be larger programming assignments which may require significantly more work, including a written report written in LaTeX, in the format of a short computer science paper.  Planned assignments are:
 
 * Feature Engineering
 * Language Models
