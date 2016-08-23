@@ -1,5 +1,5 @@
 
-> ## Special Topics: Machine Learning
+> ## Special Topics: Machine Learning (Undergraduate)
 > (CSCI 4830-004)
 > Syllabus, Fall 2016
 >
