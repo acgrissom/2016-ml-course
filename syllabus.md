@@ -11,7 +11,7 @@ Description and Outcomes
 
 Machine learning has recently seen a surge in popularity.  All of the largest technology companies have made machine learning a part of their business, but so have thousands of others, from financial institutions to retailers to educational services to government agencies.  We have self-driving cars, movie and  music recommendations, and phones that talk to us.  Indeed, machine learning has become so commonplace that we simply *expect* our phones to understand our spoken language and we are mildly annoyed when our faces aren't automatically tagged in our photos.  We can predict epidemics before they occur, find viruses by scanning binary, and even predict mental illness years in advance.  This all seems like magic to many people.  By the end of this course, it will not longer seem like magic.
 
-This course will provide an introduction to the theory and practice of machine learning.  Students be be introduced to the fundamental mathematics and best practices in both supervised and unsupervised machine approaches, using real-world data.  Students learn to use state-of-the art tools as well as create their own implementations to gain a deeper understanding of the algorithms.  
+This course will provide an introduction to the theory and practice of machine learning.  Students will be introduced to the fundamental mathematics and best practices in both supervised and unsupervised machine approaches, using real-world data.  Students learn to use state-of-the art tools as well as create their own implementations to gain a deeper understanding of the algorithms.  
 
 This course has the following objectives:
 
