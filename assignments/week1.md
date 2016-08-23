@@ -4,7 +4,7 @@ Due Monday, August 29 at 11:55pm.
 
 * Exercise 2.2
 * Write the following Python program.
- * The program will output 100 letters per line, on 10 lines. 
+ * The program will output 100 letters per line, on 10 lines.  It will output *nothing else*.
  * The first letter is always "I".
  * The subsequent letters will be generated with the following probabilities:
  * P(_ | I) = 1
