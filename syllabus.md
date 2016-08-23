@@ -39,6 +39,7 @@ We will not cover all topics at the same depth.  Machine learning is a gargantua
 
 * Probability and Vector Spaces
 * Bayesian Approaches
+* Information Theory
 * Graphical Models
 * Gradient Descent
 * Linear Models
