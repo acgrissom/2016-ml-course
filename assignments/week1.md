@@ -3,7 +3,7 @@ Week 1 Homework
 Due Monday, August 29 at 11:55pm.
 
 * Exercise 2.2
-* Write the following program.
+* Write the following Python program.
  * The program will output 100 letters per line, on 10 lines. 
  * The first letter is always "I".
  * The subsequent letters will be generated with the following probabilities:
@@ -19,4 +19,11 @@ Due Monday, August 29 at 11:55pm.
  * P(I | !) = 0.2
  * P(! | !) = 0.1
  
-Hint: You need to sample from a distribution here, i.e., "roll the dice."  
+Submit your Python file (week1.py)  The header of your file should be the following:
+
+"""
+My Name
+my_identikey1234
+my_email@colorado.edu
+Week 1
+"""
