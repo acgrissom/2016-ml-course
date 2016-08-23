@@ -11,6 +11,7 @@ Due Monday, August 29 at 11:55pm.
  * P(a | _) = 0.5
  * P(l | _) = 0.5
  * P(m | a) = 0.4
+ * P(_ | m) = 1
  * P(l | a) = 0.6
  * P(i | l) = 1
  * P(v | i) = 0.95
