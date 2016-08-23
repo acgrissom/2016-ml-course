@@ -22,8 +22,12 @@ Due Monday, August 29 at 11:55pm.
 Submit your Python file (week1.py)  The header of your file should be the following:
 
 """
+
 My Name
+
 my_identikey1234
+
 my_email@colorado.edu
+
 Week 1
 """
