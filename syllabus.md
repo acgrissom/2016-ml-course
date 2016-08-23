@@ -1,6 +1,6 @@
 
 > ## Special Topics: Machine Learning
-> (CSCI 4830)
+> (CSCI 4830-004)
 > Syllabus, Fall 2016
 >
 > Alvin Grissom II
