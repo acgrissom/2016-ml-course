@@ -1,6 +1,6 @@
 Week 1 Homework
 --
-Due Monday, August 27 at 11:55pm.
+Due Monday, August 29 at 11:55pm.
 
 * Exercise 2.2
 * Write the following program.
