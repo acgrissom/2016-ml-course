@@ -1,5 +1,5 @@
 
-> ## Spacial Topics: Machine Learning
+> ## Special Topics: Machine Learning
 > (CSCI 4830)
 > Syllabus, Fall 2016
 >
