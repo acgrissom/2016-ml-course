@@ -94,7 +94,8 @@ Final Exam
 --
 The final exam in this course consists of a written report and presentation of a course-long project, wherein students design, implement, and analyze a machine learning experiment from scratch, using publicly available data.  Progress reports will occur throughout the semester to ensure that students are making adequate progress.  The presentations will occur on the final exam date.  The papers will be due immediately prior to the presentation.
 
-Class Participation --
+Class Participation 
+--
 * Students are expected to come to class having
 read the material assigned.  Students are also encouraged to ask
 questions of the instructor and of other students on the class message
