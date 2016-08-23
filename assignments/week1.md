@@ -16,6 +16,7 @@ Due Monday, August 29 at 11:55pm.
  * P(v | i) = 0.95
  * P(e | v) = 1
  * P(n | i) = 0.05
+ * P(e | n) = 1
  * P(! | e) = 1
  * P(_ | !) = 0.7
  * P(I | !) = 0.2
