@@ -1,5 +1,7 @@
 Weekly Homework 2
 --
+
+* * This assignment is not complete.
 * Exercise 3.24.1
 
 * Download the Amazon food reviews dataset.
