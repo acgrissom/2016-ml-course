@@ -1,5 +1,6 @@
 Programming Assignment 1
 Naïve Bayes Classification
+Due Monday, September 8.
 --
 
 Be advised that this assignment has multiple parts.  It is inadvisable to wait until the last few days to work on it.  If you're having trouble, use the message board and/or come to office hours.
