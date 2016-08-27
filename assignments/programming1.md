@@ -16,7 +16,7 @@ Be advised that this assignment has multiple parts.  It is inadvisable to wait u
 * Write a report according to the syllabus's guidelines.  Submit a zip (or tar.gz) file to Moodle with all of your materials.  
  
  Your report should *at least* address the following:
- * What is the accuracy on the training data?sp
+ * What is the accuracy on the training data?
  * If you split the data into a training and a test set that is representative of the training set, what is the performance?
  * Is it what you expected?  Why or why not?
  * How does your classifier compare to the one(s) you use in Vowpal Wabbit?  Why do you think this is?
