@@ -11,7 +11,7 @@ Be advised that this assignment has multiple parts.  It is inadvisable to wait u
 * Include this in your submission, including any test/train/dev sets you used.
 * Write a Naïve Bayes classifier to predict the class of the plant based on the other features.
  * There are continuous values in the feature set.lo  Figure out how to handle this and incorporate the strategy into your classifier.  Justify your decision in your report.
-* To prevent underflow in probability calculations, the standard approach is to perform probability calculations in logspace.  See https://en.wikipedia.org/wiki/Log_probability 
+* To prevent underflow in probability calculations, the standard approach is to perform probability calculations in logspace. That is, instead of calculating *p_1* * *p_2*, we take advantage of the fact that log(*a* * *b*) = log *a* + log *b* calculate log *p_1* + log *p_2*  See https://en.wikipedia.org/wiki/Log_probability 
 * Convert the data to Vowpal Wabbit's format and run the same experiments with the loss function(s) of your choice, comparing the results.  
 * Up to 10 point bonus: Add smoothing.
 * Write a report according to the syllabus's guidelines.  Submit a zip (or tar.gz) file to Moodle with all of your materials.  
