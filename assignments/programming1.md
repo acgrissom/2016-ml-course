@@ -1,6 +1,6 @@
 Programming Assignment 1
 
-Due Monday, September 8 at 11:55pm
+Due Monday, September 12 at 11:55pm
 
 Naïve Bayes Classification
 --
@@ -8,12 +8,21 @@ Naïve Bayes Classification
 Be advised that this assignment has multiple parts.  It is inadvisable to wait until the last few days to work on it.  If you're having trouble, use the message board and/or come to office hours.
 
 * Download the Iris dataset.  (You can easily find this.)
-* Split the data into 5% dev and 95% train sets for your experiments.  Include this in your submission.
+* Include this in your submission.
 * Write a Naïve Bayes classifier to predict the class of the plant based on the other features.
  * There are continuous values in the feature set.  Figure out how to handle this and incorporate the strategy into your classifier.  Justify your decision in your report.
-* Convert the data to Vowpal Wabbit's format and run the same experiments with the loss function(s) of your choice, comparing the results.  (For this assignment, you may use Weka instead of VW if you wish.)
-* Write a report according to the syllabus's guidelines.  Submit a zip (or tar.gz) file to Moodle with all of your materials.  
+* Convert the data to Vowpal Wabbit's format and run the same experiments with the loss function(s) of your choice, comparing the results.  
 * Up to 10 point bonus: Add smoothing.
+* Write a report according to the syllabus's guidelines.  Submit a zip (or tar.gz) file to Moodle with all of your materials.  
+ * Your report should *at least* address the following:
+ * What is the accuracy on the training data?
+ * If you split the data into training and a test set that is representative of the training set, how is the performance.
+ * Is it what you expected?  Why or why not?
+ * How does your classifier compare to the one(s) you use in Vowpal Wabbit?  Why do you think this is?
+ * How did you handle continuous values?
+ * Potential bonus: What are the most informative features?
+
+
 * If your classifier performs better/worse than expected, try to explain why.
 * Your program should run "out-of-the-box."
 * 
