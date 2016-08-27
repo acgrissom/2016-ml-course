@@ -50,7 +50,11 @@ You may implement the classifier however you wish, but you might find the follow
 
 Hints for VW:
 * You may find the VW validator helpful: http://hunch.net/~vw/validate.html
-* If you do multiple passes, be sure to kill your cache --kill_cache between runs.
-
+* If you do multiple passes, be sure to kill your cache with <code>--kill_cache</code> between runs.
+  * Also delete your model file between runs.
+* Vowpal Wabbit does not report accuracy, but you can output the guesses for each line with <code>--predictions ./predictions.txt</code>
+* Use --oaa *n* for more than two classes, where *n* is the number of classes.
+* VW classes (for more than two classes) must be integers (starting at 1).
+* You will have to convert the string names to integers.
 
 
