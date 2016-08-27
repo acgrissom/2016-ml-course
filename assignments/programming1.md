@@ -53,8 +53,10 @@ Hints for VW:
 * If you do multiple passes, be sure to kill your cache with <code>--kill_cache</code> between runs.
   * Also delete your model file between runs.
 * Vowpal Wabbit does not report accuracy, but you can output the guesses for each line with <code>--predictions ./predictions.txt</code>
-* Use --oaa *n* for more than two classes, where *n* is the number of classes.
+* Use <code>--oaa *n*</code> for more than two classes during training, where *n* is the number of classes.
+* User -
 * VW classes (for more than two classes) must be integers (starting at 1).
 * You will have to convert the string names to integers.
+* Be sure to use <code>-t</code> during testing.  Otherwise, you will update the model while testing!
 
 
