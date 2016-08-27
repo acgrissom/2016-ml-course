@@ -45,8 +45,8 @@ You may implement the classifier however you wish, but you might find the follow
  * You can make nested defaultdicts with the lambda operator.  For example:
  
 
-<code> 
+```python
  my_2d_dict = defaultdict(lambda:defaultdict(float))  
  my_2d_dict[x][y] = 0.0
-</code>
+```
 
