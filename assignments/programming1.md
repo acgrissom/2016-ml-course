@@ -30,7 +30,7 @@ Be advised that this assignment has multiple parts.  It is inadvisable to wait u
 
 Hints for reports:
 
-*  Your report should have have sections for the Introduction and Conclusion, and whatever you think is necessary in between. 
+*  Your report should have sections for the Introduction and Conclusion, and whatever you think is necessary in between. 
 *  The report should be readable by someone who is not in the class.  I.e., the introductory sections should provide sufficient context for what you are doing and why.
 *  Better analysis makes for a better paper.
 *  Your report should be less than four pages.  Do not insert filler.  If you can say what you need to say in a page, then that is sufficient for this assignment.
