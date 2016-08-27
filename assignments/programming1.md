@@ -44,6 +44,10 @@ You may implement the classifier however you wish, but you might find the follow
 * The collections.defaultdict module.
  * You can make nested defaultdicts with the lambda operator.  For example:
  
+Hints for VW:
+* You may find the VW validator helpful: http://hunch.net/~vw/validate.html
+* If you do multiple passes, be sure to kill your cache --kill_cache between runs.
+
 
 ```python
  my_2d_dict = defaultdict(lambda:defaultdict(float))  
