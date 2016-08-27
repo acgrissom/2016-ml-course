@@ -43,6 +43,8 @@ You may implement the classifier however you wish, but you might find the follow
 * The Python csv module.
 * The collections.defaultdict module.
  * You can make nested defaultdicts with the lambda operator.  For example:
+ 
+
 <code> 
  my_2d_dict = defaultdict(lambda:defaultdict(float))
  my_2d_dict[x][y] = 0.0
