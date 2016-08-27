@@ -17,7 +17,7 @@ Be advised that this assignment has multiple parts.  It is inadvisable to wait u
  
  Your report should *at least* address the following:
  * What is the accuracy on the training data?
- * If you split the data into training and a test set that is representative of the training set, how is the performance.
+ * If you split the data into training and a test set that is representative of the training set, what is the performance?
  * Is it what you expected?  Why or why not?
  * How does your classifier compare to the one(s) you use in Vowpal Wabbit?  Why do you think this is?
  * How did you handle continuous values?
