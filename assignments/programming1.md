@@ -36,5 +36,14 @@ Hints for reports:
 *  Better analysis makes for a better paper.
 *  Your report should be less than four pages.  Do not insert filler.  If you can say what you need to say in a page, then that is sufficient for this assignment.
 
+Hints for Implementation:
 
+You may implement the classifier however you wish, but you might find the following to be helpful:
+
+* The Python csv module.
+* The collections.defaultdict module.
+ * You can make nested defaultdicts with the lambda operator.  For example:
+ 
+ my_2d_dict = defaultdict(lambda:defaultdict(float))
+ my_2d_dict[x][y] = 0.0
 
