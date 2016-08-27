@@ -8,7 +8,7 @@ Naïve Bayes Classification
 Be advised that this assignment has multiple parts.  It is inadvisable to wait until the last few days to work on it.  If you're having trouble, use the message board and/or come to office hours.
 
 * Download the Iris dataset.  (You can easily find this.)
-* Include this in your submission.
+* Include this in your submission, including any test/train/dev sets you used.
 * Write a Naïve Bayes classifier to predict the class of the plant based on the other features.
  * There are continuous values in the feature set.  Figure out how to handle this and incorporate the strategy into your classifier.  Justify your decision in your report.
 * Convert the data to Vowpal Wabbit's format and run the same experiments with the loss function(s) of your choice, comparing the results.  
