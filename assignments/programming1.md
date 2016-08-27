@@ -25,7 +25,7 @@ Be advised that this assignment has multiple parts.  It is inadvisable to wait u
 
 * If your classifier performs better/worse than expected, try to explain why.
 * Your program should run "out-of-the-box."
-* 
+
 
 Hints for reports:
 
