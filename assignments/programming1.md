@@ -57,5 +57,5 @@ Hints for VW:
 * VW classes (for more than two classes) must be integers (starting at 1).
 * You will have to convert the string names to integers.
 * Be sure to use <code>-t</code> during testing.  Otherwise, you will update the model while testing!
-
+* Include the commands you used for your VW runs in a script called run.sh
 
