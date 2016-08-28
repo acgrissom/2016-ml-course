@@ -1,5 +1,6 @@
 Week 2 Homework
-(Under construction)
+Due Tuesday, September 6 (due to labor day).
+While you'll get an extra day for this assignment, I don't recommend taking it, because you will have both (1) a project due and (2) another assignment due during that week.
 --
 * Exercise 10.1
  * (b) Suppose that instead of binary classes (> 60 or < 60), your data consists of a discrete set of ages, *A*, in [0,100] and probabilities *p* ∈ [0,1] for each age, respectively. Write an equation for the probability of people over age 60.  
