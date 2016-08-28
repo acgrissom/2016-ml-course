@@ -1,6 +1,6 @@
 Week 2 Homework
 --
-Due Tuesday, September 6 (Due to Labor Day).
+Due Tuesday, September 6 (due to Labor Day).
 
 While you'll get an extra day for this assignment, I don't recommend taking it, because you will have both (1) a programming assignment due and (2) another assignment due for that week.
 
