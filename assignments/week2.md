@@ -1,7 +1,7 @@
 Week 2 Homework
 --
 Due Tuesday, September 6 (due to labor day).
-While you'll get an extra day for this assignment, I don't recommend taking it, because you will have both (1) a project due and (2) another assignment due during that week.
+While you'll get an extra day for this assignment, I don't recommend taking it, because you will have both (1) a programming assignment due and (2) another assignment due during that week.
 
 This assignment is to be done in LaTeX.
 
