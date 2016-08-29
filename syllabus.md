@@ -19,7 +19,7 @@ This course has the following objectives:
 * Students will have at their disposal a wide array of analytical tools and the knowledge of when and how to use them.  
 * Students will learn to design and conduct their own machine learning experiments using state-of-the-art software.
 * Students will gain some cognizance of the ethical implications of work in machine learning.
-* Students will develop skills necessary for communicating their ideas and finding effectively, truthfully, and convincingly.
+* Students will develop skills necessary for communicating their ideas and findings clearly, truthfully, and convincingly.
 * Students will grapple with some of the ethical issues that have arisen as machine learning has advanced.
 
 **Prerequisites**:
