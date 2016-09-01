@@ -15,7 +15,7 @@ You may find the following helpful for your review. http://www.cs.colostate.edu/
 
     (a) What is a relevant feature, and how did this paper determine which features are "relevant?"  Do you agree with this?  Why?
 
-    (b) For a binary classification positive, a false positive (FP) is a negative instance incorrectly classified positively, 
+    (b) For a binary classification, a false positive (FP) is a negative instance incorrectly classified positively, 
     a true positive is a correctly classified positive instance, a false negative is an incorrectly classified negative instance, 
     and a true negative is a correctly classified negative instance.
     
