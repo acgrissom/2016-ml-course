@@ -16,8 +16,7 @@ You may find the following helpful for your review. http://www.cs.colostate.edu/
     (a) What is a relevant feature, and how did this paper determine which features are "relevant?"  Do you agree with this?  Why?
 
     (b) For a binary classification, a false positive (FP) is a negative instance incorrectly classified positively, 
-    a true positive is a correctly classified positive instance, a false negative is an incorrectly classified negative instance, 
-    and a true negative is a correctly classified negative instance.
+    a true positive (TP) is a correctly classified positive instance, a false negative (FN) is an incorrectly classified negative instance, and a true negative (TN) is a correctly classified negative instance.
     
     For example, if a patient has a disease and is tested for it (by a doctor or a classifier), the result of the test are as follows:
     * TP = correctly diagnosed as having the deases
