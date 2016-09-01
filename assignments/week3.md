@@ -55,3 +55,4 @@ You may find the following helpful for your review. http://www.cs.colostate.edu/
     
 2.  What is the loss function of a Naïve Bayes classifier (in words or as a formula)?.  
 
+3.  Does logistic regression have the same problem with 0's as Naïve Bayes, thus requiring smoothing (such as Laplace)?  Why or why not?
