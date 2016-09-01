@@ -4,13 +4,14 @@ Week 3 Assignments (Work-in-progress)
 *A.* Writing assignment:
 
 Read the paper *Learning to Detect Malicious Executables in the Wild* (Kolter et al. 2004).  You can find it via Google Scholar, Microsoft Academic Search, or similar services.
-Write a brief review of this paper according to the syllabus's guidelines.  There are two versions of this paper: a shorter conference version with double columns, and a longer journal version.
-Read the conference version.
+Write a brief review of this paper according to the syllabus's guidelines.  There are two versions of this paper: a shorter conference version with double columns, and a longer journal version.  Read the conference version.
+(While I could trivially past a link, it's important to know how to find scientific papers yourself, so I'm leaving it to you.)
+You may find the following helpful for your review. http://www.cs.colostate.edu/~cs656/alan-meier.pdf
 
 *B*.  Written Homework
 
 1.  Regarding the paper assigned for part A, answer the following questions:
-2.  
+
     (a) What is a relevant feature, and how did this paper determine which features are "relevant?"  Do you agree with this?  Why?
 
     (b) For a binary classification positive, a false positive (FP) is a negative instance incorrectly classified positively, 
@@ -35,9 +36,23 @@ Read the conference version.
 
    In the assigned paper, which is more important?  What would be an application where less than perfect precision or recall are unacceptable?  Justify your answer.
     
-    (d)  What are the features used in this paper?
+    (d)  Describe the feature space and label space for this problem.
     
     (e) Describe at least two things about the paper that you did not understand.
     
     (f) Are you surprised by the results of this paper?  Why or why not?
-   
+    
+    (g) What is the IG function and its relationship to entropy?
+    
+    (h)  What is the prior in the IG function and how is it estimated?
+    
+    (i)  The arg max function in the Naïve Bayes formula returns C.  What is it?  How would it differ if, instead, the max function were used?
+    
+    (j) What reason do the authors give for the inconclusive results of boosted SVMs?
+    
+    (k)  In statistics features are called "dependent variables." In data mining, features are often called "attributes." 
+    
+    (i) What criterion is typically used to create splitting nodes in the C4.5 algorithm mentioned in this paper?  (ii) What is its relationship to KL-divergence?  And (iii) what is this metric's relationship to entropy?
+    
+2.  What is the loss function of a Naïve Bayes classifier (in words or as a formula)?.  
+
