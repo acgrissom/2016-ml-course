@@ -29,13 +29,14 @@ You may find the following helpful for your review. http://www.cs.colostate.edu/
     TP / (TP + FP) = # correctly classified true examples / # examples model classified as true .  If we have too many false positives
     and not enough true positives, this score decreases.  We can trivially maximize this by by never guessing true, i.e., always guessing -1.  (For simplicity, say that if the denominator is 0, the precision is 1.)  Do TP and FP have meanings in a multiclass setting?
     
-    (c) Give an example of a set of *n*-grams for a word that are used in this work.    
     
     This metric is contrasted with recall.  **Recall** measures how many true positives we manage to capture: 
     TP / (TP + FN) = # correctly classified true examples / # all true examples.  We can trivially maximize this value by always guessing +1.
 
    In the assigned paper, which is more important?  What would be an application where less than perfect precision or recall are unacceptable?  Justify your answer.
     
+    (c) Give an example of a set of *n*-grams for a word that are used in this work.    
+
     (d)  Describe the feature space and label space for this problem.
     
     (e) Describe at least two things about the paper that you did not understand.
