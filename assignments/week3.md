@@ -1,6 +1,6 @@
 Week 3 Assignments 
-Due Friday, September 9, 11:55pm.
 --
+Due Friday, September 9, 11:55pm.
 
 *A.* Writing assignment:
 
