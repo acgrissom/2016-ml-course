@@ -1,4 +1,5 @@
-Week 3 Assignments (Work-in-progress)
+Week 3 Assignments 
+Due Friday, September 9, 11:55pm.
 --
 
 *A.* Writing assignment:
