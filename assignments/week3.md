@@ -4,9 +4,9 @@ Due Friday, September 9, 11:55pm.
 
 *A.* Writing assignment:
 
-Read the paper *Learning to Detect Malicious Executables in the Wild* (Kolter et al. 2004).  You can find it via Google Scholar, Microsoft Academic Search, or similar services.
-Write a brief review of this paper according to the syllabus's guidelines.  There are two versions of this paper: a shorter conference version with double columns, and a longer journal version.  Read the conference version.
-(While I could trivially paste a link, it's important to know how to find scientific papers yourself, so I'm leaving it to you.)
+Read this paper and write a review according to the syllabus's guidelines.   https://dl.packetstormsecurity.net/papers/IDS/hids/Learning-to-Detect-Malicious-Executables-in-the-Wild.pdf 
+
+There are two versions of this paper: a shorter conference version with double columns, and a longer journal version.  Read the conference version provided.
 You may find the following helpful for your review. http://www.cs.colostate.edu/~cs656/alan-meier.pdf
 
 *B*.  Written Homework
