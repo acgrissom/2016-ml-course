@@ -46,7 +46,7 @@ You may find the following helpful for your review. http://www.cs.colostate.edu/
     
     (h)  What is the prior in the IG function and how is it estimated?
     
-    (i)  The arg max function in the Naïve Bayes formula returns C.  What is it?  How would it differ if, instead, the max function were used?
+    (i)  The arg max function in the Naïve Bayes formula returns C.  What is it?  What would the max function return, if it were used instead of arg max?
     
     (j) What reason do the authors give for the inconclusive results of boosted SVMs?
     
