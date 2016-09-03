@@ -22,7 +22,7 @@ You may find the following helpful for your review. http://www.cs.colostate.edu/
     * TP = correctly diagnosed as having the deases
     * FP = incorrectly diagnosed as having the disease
     * TN = correctly diagnosed as not having the disease
-    * FN = incorrectly diagnosed as not havaing the disease.
+    * FN = incorrectly diagnosed as not having the disease.
     
     In many problem domains, we use two different metrics to give is a different sense of how well a model performs: precision and recall.
     **Precision** measures how likely a model's positive predictions are to be correct: 
