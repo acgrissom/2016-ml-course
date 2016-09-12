@@ -1,7 +1,7 @@
 Week 4 Assignment
 --
 A.
-Read the following classic paper, which revolutionized machine translation in 1990 and answer the proceeding questions.  http://www.ling.upenn.edu/courses/Spring_2011/cogs502/Brown1990.pdf
+Read the following classic paper, which revolutionized machine translation in 1990, and answer the proceeding questions.  http://www.ling.upenn.edu/courses/Spring_2011/cogs502/Brown1990.pdf
 
 1. Does this model accurately translate phrases longer than a single word?  Explain.
 
