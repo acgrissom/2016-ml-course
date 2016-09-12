@@ -1,5 +1,7 @@
 Week 4 Assignment
 --
+Due Friday, September 16, at 11:55pm.
+
 A.
 Read the following classic paper, which revolutionized machine translation in 1990, and answer the proceeding questions.  http://www.ling.upenn.edu/courses/Spring_2011/cogs502/Brown1990.pdf
 
