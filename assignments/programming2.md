@@ -42,15 +42,15 @@ Also address at least the following:
 
 Extra credit:
 
-1. Use a schedule to update the learning rate.
+1. Use a schedule to update the learning rate. (5pts)
     - Supply an appropriate argument to step parameter
     - Support it in your _sg update_
     - Show the effect in your analysis document
-1.  Use document frequency (provided in the vocabulary file) to modify the feature values to [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf).
+1.  Use document frequency (provided in the vocabulary file) to modify the feature values to (10pts) [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf).
     - Modify the Example to store the df vector
     - With the appropriate flag, use the ~df~ vector rather than ~x~ in the update
     - Show the effect in your analysis document
-
+1.  Compare your performance with Vowpal Wabbit's logistic regression. (5pts)
 Caution: When implementing extra credit, make sure your implementation of the
 regular algorithms doesn't change.
 
