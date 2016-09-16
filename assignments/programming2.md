@@ -1,13 +1,13 @@
 Logistic Regression
 =
 
-Due: 11. September (23:55)
+Due: 3. October (23:55)
 
 Overview
 --------
 
-In this homework you'll implement a stochastic gradient ascent for
-logistic regression and you'll apply it to the task of determining
+For this homework, you'll implement stochastic gradient ascent for
+logistic regression, and you'll apply it to the task of determining
 whether documents are talking about hockey or baseball.
 
 
@@ -16,13 +16,11 @@ for this assignment. Logistic regression is implemented in scikit
 learn, but you should do everything by hand now.  You'll be able to
 use library implementations of logistic regression in the future.
 
-You'll turn in your code on Moodle.  This assignment is worth 30
-points.
 
 What you have to do:
 ----
 
-Coding (25 points):
+Coding (80 points):
 
 1. Understand how the code is creating feature vectors (this will help you code the solution and to do the later analysis).  You don't actually need to write any code for this, however.
 2. (Optional) Store necessary data in the constructor so you can do classification later.  
@@ -31,12 +29,16 @@ Coding (25 points):
 4. Modify the _sg update_ function so that it finds regularized updates.
     *NOTE*: You should only update [non-zero dimensions](http://lingpipe.files.wordpress.com/2008/04/lazysgdregression.pdf).
 
-Analysis (5 points):
+Analysis (20 points):
+Include the formulas you implemented and how/why you implemented them the way you did in the code.
+
+Also address at least the following:
 
 1. What is the role of the learning rate?
 2. How many passes over the data do you need to complete?
 3. What words are the best predictors of each class?  How (mathematically) did you find them?
 4. What words are the poorest predictors of classes?  How (mathematically) did you find them?
+5. What happens to regularization if mu is 0?
 
 Extra credit:
 
