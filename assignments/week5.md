@@ -16,6 +16,7 @@ A.  Note that "Explain" can be interpreted to mean "Explain as briefly as possib
 4.  T/F SVMs, Naïve Bayes, and logistic regression all find a hyperplane to separate data. Explain.
 
 6.  What is a Rademacher variable, and what function does it serve in terms of determining Rademacher complexity?
+
 7.  Which has higher entropy?  A rare word or a common word?  Explain.
 
 
