@@ -5,7 +5,7 @@ Due Friday at 11:55pm.
 
 A.  Note that "Explain" can be interpreted to mean "Explain as briefly as possible."  More text != a better answer.
    
-    Pick _five_ of the following seven questions to answer.
+   Pick **five** of the following seven questions to answer.
 
 1.  T/F  Smaller hypothesis spaces tend to have higher Rademcher complexity than larger ones.  Explain.
     
