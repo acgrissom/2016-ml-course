@@ -22,4 +22,4 @@ B.  Using Vowpal Wabbit, using the data provided for Programming Assignemnt 2, r
     loss functions (or neural networks or SVMs) and compare the results.  How does using L2 regularization affect the results?
     
 C.  Go to https://www.kaggle.com/datasets and browse the data sets.  
-    Describe at least two projects you would be interested in tackling and why.
+    Describe at least two projects you would be interested in tackling and why.  (They need not be from Kaggle data sets.)
