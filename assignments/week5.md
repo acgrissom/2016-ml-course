@@ -4,7 +4,6 @@ Week 5 Homework
 Due Friday at 11:55pm.
 
 A.  Note that "Explain" can be interpreted to mean "Explain as briefly as possible."  More text != a better answer.
-   
    Pick **five** of the following seven questions to answer.
 
 1.  T/F  Smaller hypothesis spaces tend to have higher Rademcher complexity than larger ones.  Explain.
@@ -18,7 +17,6 @@ A.  Note that "Explain" can be interpreted to mean "Explain as briefly as possib
 6.  Which has higher entropy?  A rare word or a common word?  Explain.
 
 7.  What is a Rademacher variable, and what function does it serve in terms of determining Rademacher complexity?
-
 
 
 B.  Using Vowpal Wabbit, using the data provided for Programming Assignemnt 2, run the experiment with at least two different
