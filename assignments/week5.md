@@ -16,8 +16,8 @@ A.  Note that "Explain" can be interpreted to mean "Explain as briefly as possib
 4.  T/F SVMs, Naïve Bayes, and logistic regression all find a hyperplane to separate data. Explain.
 
 6.  What is a Rademacher variable, and what function does it serve in terms of determining Rademacher complexity?
-
 7.  Which has higher entropy?  A rare word or a common word?  Explain.
+
 
 B.  Using Vowpal Wabbit, using the data provided for Programming Assignemnt 2, run the experiment with at least two different
     loss functions (or neural networks or SVMs) and compare the results.  How does using L2 regularization affect the results?
