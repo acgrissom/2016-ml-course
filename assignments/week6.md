@@ -36,6 +36,6 @@ https://aclweb.org/anthology/K/K16/K16-1010.pdf
 
 9. Why does the paper suggest that the baseline model doesn't work well?
 
-10. What does the paper mean when in Figure 3, when it describes the distribution as "Zipfian?"
+10. What does the paper mean in Figure 3, where it describes the distribution as "Zipfian?"
   
 Bonus (10 pts).  One-vs-all uses multiple binary classifiers and selects the one with the highest confidence.  This is in some sense unprincipled, since the trained models are not necessarily directly comparable.  This paper tracks the confidences of "the classifier" when analyzing of the result.  Does this make sense?  Argue your case.
