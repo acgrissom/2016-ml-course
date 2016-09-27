@@ -28,7 +28,7 @@ https://aclweb.org/anthology/K/K16/K16-1010.pdf
 
 5. What multi-class classification scheme does the paper use for the multiple choice scenario?  Describe how this works.
 
-6. How does the computational performance on the multiple choice data compare with the huamn performance?
+6. How does the computational performance on the multiple choice data compare with the human performance?
 
 7. What are the feature set and hypothesis space, respectively?
 
