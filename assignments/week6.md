@@ -8,7 +8,7 @@ A. If the statement below is false, explain why it is false.  Otherwise, briefly
 
 2.  Error correcting code classification constructs multiple binary classifiers for choosing a label.
 
-3. 1-vs-1 classification selects the classifier with the highest confidence in the correct answer.
+3. All-vs-all classification selects the classifier with the highest confidence in the correct answer.
 
 4. Standard support vector machines produce probabilities, just like logistic regression and the perceptron.
 
