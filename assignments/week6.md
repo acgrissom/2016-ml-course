@@ -1,6 +1,6 @@
 Weekly Homework #6
 ==
-Due Friday, October 6, at 11:55pm.
+Due Friday, October 7, at 11:55pm.
 
 A. If the statement below is false, explain why it is false.  Otherwise, briefly explain why it is true.
 
