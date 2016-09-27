@@ -20,7 +20,7 @@ https://aclweb.org/anthology/K/K16/K16-1010.pdf
 
 1. What is the objective of this paper?
 
-2. What kind of model does the paper use?
+2. What kind of learning algorithm does this paper use for its computational results?
 
 3. What is a "baseline," and how is it used in this paper?
 
@@ -30,15 +30,12 @@ https://aclweb.org/anthology/K/K16/K16-1010.pdf
 
 6. How does the computational performance on the multiple choice data compare with the huamn performance?
 
-7. What is the feature set, and which features seem to be particularly helpful?
+7. What are the feature set and hypothesis space, respectively?
 
-8. What is the difference between the full context set and the random length set?
+8. In equation 1, what are the prior and the posterior, respectively, and what do they represent? 
 
-9. Are the changes in confidences in the answer that are mentioned in the analysis section directly comparable when using one-vs-all?  Briefly argue your case.
+9. Why does the paper suggest that the baseline model doesn't work well?
 
-10. In equation 1, what are the prior and the posterior, respectively, and what do they represent? 
-
-11. Why does the paper suggest that the baseline model doesn't work well?
-
-12. What does the paper mean when in Figure 3, when it describes the distribution as "Zipfian?"
+10. What does the paper mean when in Figure 3, when it describes the distribution as "Zipfian?"
   
+Bonus (10 pts).  One-vs-all uses multiple binary classifiers and selects the one with the highest confidence.  This is in some sense unprincipled, since the trained models are not necessarily directly comparable.  This paper tracks the confidences of "the classifier" when analyzing of the result.  Does this make sense?  Argue your case.
