@@ -2,7 +2,7 @@ Weekly Homework #6
 ==
 Due Friday, October 7, at 11:55pm.
 
-A. If the statement below is false, explain why it is false.  Otherwise, briefly explain why it is true.  You may find Section 3 of this document to be helpful.  https://www.cs.utah.edu/~piyush/teaching/aly05multiclass.pdf
+A (100 points). If the statement below is false, explain why it is false.  Otherwise, briefly explain why it is true.  You may find Section 3 of this document to be helpful.  https://www.cs.utah.edu/~piyush/teaching/aly05multiclass.pdf
 
 1.  One-vs-all classification decides which label to predict by using the most confident classifiers to vote on the correct answer.
 
@@ -14,7 +14,7 @@ A. If the statement below is false, explain why it is false.  Otherwise, briefly
 
 5. Logistic regression can be viewed as a special case of the perception.
 
-B. Read the following paper:
+B (100 points). Read the following paper:
 
 https://aclweb.org/anthology/K/K16/K16-1010.pdf
 
