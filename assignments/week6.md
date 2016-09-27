@@ -1,5 +1,17 @@
 Due Friday, October 6, at 11:55pm.
-Read the following paper:
+A. If the statement below is false, explain why it is false.  Otherwise, briefly explain why it is true.
+
+1.  One-vs-all classification decides which label to predict by using the most confident classifiers to vote on the correct answer.
+
+2.  Error correcting code classification constructs multiple binary classifiers for choosing a label.
+
+3. 1-vs-1 classification selects the classifier with the highest confidence in the correct answer.
+
+4. Standard support vector machines produce probabilities, just like logistic regression and the perceptron.
+
+5. Logistic regression can be viewed as a special case of the perception.
+
+B. Read the following paper:
 
 https://aclweb.org/anthology/K/K16/K16-1010.pdf
 
