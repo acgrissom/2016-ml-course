@@ -1,4 +1,7 @@
+Weekly Homework #6
+==
 Due Friday, October 6, at 11:55pm.
+
 A. If the statement below is false, explain why it is false.  Otherwise, briefly explain why it is true.
 
 1.  One-vs-all classification decides which label to predict by using the most confident classifiers to vote on the correct answer.
