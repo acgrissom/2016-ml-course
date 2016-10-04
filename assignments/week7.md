@@ -17,7 +17,8 @@ Since you have already converted the data to VW format, this should not take muc
 Compute accuracy on both train and test data, splitting them as necessary.
 
 Tweak at least two "variables" and analyze how they affect performance:
-Some suggestions of variables to tweak:
+
+The following are suggestions of variables to tweak.  You are free to use others.
 * Size of the training data
 * Number of hidden layers (depth) of the neural network
 * Regularization
