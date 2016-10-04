@@ -1,6 +1,7 @@
 Homework 7
 ==
 Due Wednesday,  October 12.
+
 A. 
 
 1.  What is the most common way of choosing the number of nodes in the hidden layer?
