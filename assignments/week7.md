@@ -1,6 +1,6 @@
 Homework 7
 ==
-Due Wednesday,  October 12.
+Due Friday,  October 15.
 
 A. 
 
