@@ -12,8 +12,8 @@ A.
 
 B.  
 
-Using the Iris data and the sports data from previous assignments, run VW using neural networks and some other classifier (e.g. logistic regression, hinge loss, squared loss).  
-Since you have already converted the data to VW format, this should not take much time.
+Using the Iris data and the sports data from previous assignments, run VW using neural networks and some other classifier (e.g., logistic regression, hinge loss, squared loss).  
+Since you have already converted the data to the VW format, this should not take much time.
 Compute accuracy on both train and test data, splitting them as necessary.
 
 Tweak at least two "variables" and analyze how they affect performance:
