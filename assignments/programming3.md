@@ -7,15 +7,13 @@ Overview
 --------
 
 In this homework you'll implement a k-Nearest Neighbor classification
-framework to take a drawing of a number and output what number it
-corresponds to.
+framework to take a drawing of a number and output the number to which is corresponds.
 
 ![Samples of Handwritten Digits](mnist.jpg "MNIST Digits")
 
-This is designed to be a *very easy* homework.  If you're spending a
+This is designed to be an *easy* homework assignment.  If you're spending a
 lot of time on this assignment, you are either:
 
-* not prepared to take the course (i.e., if you're struggling with Python)
 * seriously over-thinking the assignment
 * trying to reimplement too much of the assignment
 
@@ -24,10 +22,9 @@ already been implemented for you.  If you are implementing
 n-dimensional search or a median algorithm, you are generating extra
 work for yourself and making yourself vulnerable to errors.
 
-You'll turn in your code on Moodle.  This assignment is worth 15
-points.  Other assignments will be worth more.
+You'll turn in your code on Moodle.  
 
-What you have to do
+What you have to do:
 ----
 
 Coding (50 points):
