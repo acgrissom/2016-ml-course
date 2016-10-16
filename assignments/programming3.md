@@ -10,7 +10,7 @@ In this homework you'll implement a k-Nearest Neighbor classification
 framework to take a drawing of a number and output what number it
 corresponds to.
 
-![Samples of Handwritten Digits](.jbg "MNIST Digits")
+![Samples of Handwritten Digits](.jpg "MNIST Digits")
 
 This is designed to be a *very easy* homework.  If you're spending a
 lot of time on this assignment, you are either:
