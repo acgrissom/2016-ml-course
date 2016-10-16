@@ -57,7 +57,7 @@ in class.  Before running your code on read data, make sure it passes
 all of the unit tests.
 
 ```
-cs244-33-dhcp:knn jbg$ python tests.py
+cs244-33-dhcp:knn acg$ python tests.py
 ...
 ----------------------------------------------------------------------
 Ran 3 tests in 0.003s
@@ -67,7 +67,7 @@ OK
 
 Initially, it will fail all of them:
 ```
-cs244-33-dhcp:knn jbg$ python tests.py
+cs244-33-dhcp:knn acg$ python tests.py
 FFF
 ======================================================================
 FAIL: test1 (__main__.TestKnn)
@@ -104,7 +104,7 @@ Example
 
 This is an example of what your code should look like:
 ```
-cs244-33-dhcp:knn jbg$ python knn.py --limit 500
+cs244-33-dhcp:knn acg$ python knn.py --limit 500
 Data limit: 500
 Done loading data
 100/10000 for confusion matrix
