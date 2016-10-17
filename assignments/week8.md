@@ -12,6 +12,7 @@ Answer the following qusstions.
 1.  Where is a classifier used in this system?
 1.  What are the features and labels of the classifier used in this system?
 1.  What is the objective function of this RL system?
+1.  Explain each term in formula 3 and what the entire formula means.
 1.  Explain each term in formula 4 and what the entire formula means.
 1.  What are the baselines in this system?
 1.  How is the optimal policy calculated?
