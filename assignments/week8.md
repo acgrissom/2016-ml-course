@@ -1,7 +1,8 @@
 Homework 8
 --
-
 Due: Monday, October 24
+
+The purpose of this assignment is to...reinforce the concepts of reinforcement learning.
 Read the following reinforcement learning paper.  http://emnlp2014.org/papers/pdf/EMNLP2014140.pdf
 
 Answer the following qusstions.
