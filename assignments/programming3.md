@@ -1,7 +1,7 @@
 K-Nearest Neighbors
 =
 
-Due: 4. September (23:55)
+Due: 2. November (23:55)
 
 Overview
 --------
