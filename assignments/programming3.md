@@ -233,4 +233,4 @@ Hints
 
 Bonus (50 pts)
 --
-Figure out how to perform the same task with Vowpal Wabbit and do so.  Include the analysis of this approach in your report.
+Figure out how to perform the same task with Vowpal Wabbit (not using knn) and do so.  Include the analysis of this approach in your report.
