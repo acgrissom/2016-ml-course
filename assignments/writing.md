@@ -13,6 +13,7 @@ This essay does not require that you take an absolutist position.  It does, howe
 
 * Facial Recognition and Discrimination: https://theintercept.com/2016/10/13/how-a-facial-recognition-mismatch-can-ruin-your-life/
 * Data Mining Social Networks: https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/
+
 http://www.dailydot.com/layer8/denver-police-geofeedia-social-media-monitoring/
 * Machine learning our biases: https://www.bloomberg.com/news/articles/2016-06-23/artificial-intelligence-has-a-sea-of-dudes-problem
 http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html
