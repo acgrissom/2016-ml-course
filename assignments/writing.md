@@ -1,6 +1,4 @@
 Writing Assignment
-
-
 --
 * Final Draft Due: Dec. 5
 * Last day for feedback on rough drafts: Nov. 21
