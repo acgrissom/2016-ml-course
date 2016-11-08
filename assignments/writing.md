@@ -1,7 +1,7 @@
 Writing Assignment
 --
 * Final Draft Due: Dec. 5
-* Last day for feedback on rough drafts: Nov. 21
+* Last day for feedback on rough drafts: Nov. 28
 
 For this assignment, you will address an ethical question relevant to contemporary machine learning in an essay.  This essay must be well-written: it must be written in standard, grammatical English, contain well-organized thoughts, and employ structured argumentation in support of a position.  The length must be at least two but no more than four pages when using the ICML template.  Essays will be graded based on both content and grammar.  Slopily written essays will be returned ungraded.
 You may send me a draft if you are unsure whether your essay meets the standards required for credit.  Office hours, scheduled or otherwise, are also a good time for this.
