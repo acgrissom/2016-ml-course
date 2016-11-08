@@ -1,6 +1,7 @@
 Writing Assignment
 Final Draft Due: Dec. 5
-Last day for rought drafts: Dec. 21
+
+Last day for rough drafts: Dec. 21
 --
 Machine Learning
 
