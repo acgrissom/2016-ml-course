@@ -24,3 +24,4 @@ Paper: https://arxiv.org/pdf/1606.06121.pdf
 * Facebook and Democracy: http://www.vox.com/new-money/2016/11/6/13509854/facebook-politics-news-bad
 * Machine Intelligence and Human Morals: http://www.ted.com/talks/zeynep_tufekci_we_can_t_control_what_our_intelligent_machines_are_learning
 * Self-driving cars and who to save: http://www.theverge.com/2016/8/9/12412190/moral-machine-trolley-problem-self-driving-car
+* E-mail snooping/privacy: https://theintercept.com/2016/10/04/delete-your-yahoo-account/
