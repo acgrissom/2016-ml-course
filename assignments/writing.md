@@ -12,7 +12,6 @@ This essay does not require that you take an absolutist position.  It does, howe
 
 
 * Facial Recognition and Discrimination: https://theintercept.com/2016/10/13/how-a-facial-recognition-mismatch-can-ruin-your-life/
-* Data Mining Social Networks: https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/
 
 http://www.dailydot.com/layer8/denver-police-geofeedia-social-media-monitoring/
 * Machine learning our biases: https://www.bloomberg.com/news/articles/2016-06-23/artificial-intelligence-has-a-sea-of-dudes-problem
@@ -24,5 +23,3 @@ Paper: https://arxiv.org/pdf/1606.06121.pdf
 * Facebook and Democracy: http://www.vox.com/new-money/2016/11/6/13509854/facebook-politics-news-bad
 * Machine Intelligence and Human Morals: http://www.ted.com/talks/zeynep_tufekci_we_can_t_control_what_our_intelligent_machines_are_learning
 * Self-driving cars and who to save: http://www.theverge.com/2016/8/9/12412190/moral-machine-trolley-problem-self-driving-car
-* E-mail snooping/privacy: https://theintercept.com/2016/10/04/delete-your-yahoo-account/
-* Tracking: https://theintercept.com/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton/
