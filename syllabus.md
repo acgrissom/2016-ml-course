@@ -5,7 +5,6 @@
 >
 > Alvin Grissom II
 >
-> http://www.umiacs.umd.edu/~alvin/courses/ugml2016.html
 
 Description and Outcomes
 ========================
