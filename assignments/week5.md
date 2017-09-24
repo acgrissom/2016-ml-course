@@ -14,7 +14,7 @@ A.  Note that "Explain" can be interpreted to mean "Explain as briefly as possib
 6.  What is a Rademacher variable, and what function does it serve in terms of determining Rademacher complexity?
 
 
-B.  Using Vowpal Wabbit, using the data provided for Programming Assignemnt 2, run the experiment with at least two different
+B.  Using Vowpal Wabbit, using the data provided for Programming Assignment 2, run the experiment with at least two different
     loss functions (or neural networks or SVMs) and compare the results.  How does using L2 regularization affect the results?
     
 C.  Go to https://www.kaggle.com/datasets and browse the data sets.  
