@@ -231,6 +231,8 @@ Hints
     values of _k_.
 1.  _median_ can give answers that are not in the label set (e.g. if _k_ is 2).  That's fine for this assignment.
 
-Bonus (50 pts)
+Bonus (20 pts)
 --
 Figure out how to perform the same task with Vowpal Wabbit (not using knn) and do so.  Include the analysis of this approach in your report.
+
+Adapted from an assignment by Jordan Boyd-Graber
