@@ -1,5 +1,7 @@
 Programming Assignment 1
+
 Adapted from assignment by Jordan Boyd-Graber
+
 Due Monday, September 12 at 11:55pm
 
 Naïve Bayes Classification
