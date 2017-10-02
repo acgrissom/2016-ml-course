@@ -1,8 +1,9 @@
 Programming Assignment 1
-
+Adapter from assignment by Jordan Boyd-Graber
 Due Monday, September 12 at 11:55pm
 
 Naïve Bayes Classification
+
 --
 
 Be advised that this assignment has multiple parts.  It is inadvisable to wait until the last few days to work on it.  If you're having trouble, use the message board and/or come to office hours.
