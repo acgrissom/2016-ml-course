@@ -1,7 +1,5 @@
 Programming Assignment 1
 
-Adapted from assignment by Jordan Boyd-Graber
-
 Due Monday, September 12 at 11:55pm
 
 Naïve Bayes Classification
@@ -62,3 +60,4 @@ Hints for VW:
 * Be sure to use <code>-t</code> during testing.  Otherwise, you will update the model while testing!
 * Include the commands you used for your VW runs in a script called run.sh
 
+This assignment was adapted from an assignment by Jordan Boyd-Graber.
