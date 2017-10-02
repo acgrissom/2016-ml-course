@@ -1,5 +1,5 @@
 Programming Assignment 1
-Adapter from assignment by Jordan Boyd-Graber
+Adapted from assignment by Jordan Boyd-Graber
 Due Monday, September 12 at 11:55pm
 
 Naïve Bayes Classification
