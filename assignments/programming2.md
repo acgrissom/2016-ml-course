@@ -318,3 +318,4 @@ Hints
     and get it to work well.  The dot function may be helpful.
 1.  Use numpy functions whenever you can to make the computation faster.
 
+Adapter from an assignment by Jordan Boyd-Graber
