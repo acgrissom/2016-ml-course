@@ -15,7 +15,9 @@ This essay does not require that you take an absolutist position.  It does, howe
 
 * Social Media Monitoring http://www.dailydot.com/layer8/denver-police-geofeedia-social-media-monitoring/
 * Machine learning our biases: https://www.bloomberg.com/news/articles/2016-06-23/artificial-intelligence-has-a-sea-of-dudes-problem
+
 http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html
+
 Paper: https://arxiv.org/pdf/1606.06121.pdf
 * Facial Recognition and Privacy: https://www.wired.com/2016/09/machine-learning-can-identify-pixelated-faces-researchers-show/
 * See How Facebook Labels You: http://www.nytimes.com/2016/08/24/us/politics/facebook-ads-politics.html
